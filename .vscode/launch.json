@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Lucas/Documents/Code/c++_small_programs",
-      "program": "c:/Users/Lucas/Documents/Code/c++_small_programs/build/Debug/outDebug",
+      "cwd": "c:/Users/Lucas/Documents/Code/c++_small_programs/mysql_basic_connection",
+      "program": "c:/Users/Lucas/Documents/Code/c++_small_programs/mysql_basic_connection/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
